@@ -24,7 +24,7 @@ Bonus: Para bases de dados Transacionais, temos a feature de Microtransformaçã
 - Carga para uma instância do Amazon RDS (PostgreSQL)  
 
 
-[Script Python]()
+[Script Python](https://github.com/NicolasEvilasio/NICOLAS_EVILASIO_DDF_TECH_052024/blob/main/ELT_products_ads.py)
 ___
 ### Item 3 - Sobre a Dadosfera - Explorar
 Usando os seus conhecimentos da documentação da Dadosfera, faça a carga desse dataset, catalogue-o com as informações mais relevantes, seguindo boas práticas de Dicionário de Dados.  
