@@ -57,7 +57,7 @@ Traga um dataset desestruturado e, utilizando IA, gere features em cima desses d
 Criei um app no streamlit que, utilizando a openai API, é capaz de receber um texto com título e decrição do produto e retorna o dado estruturado em json.
 
 `Clique no gif abaixo para abrir o app`
-[<img src="imgs/streamlit_app_features.gif"/>](https://google.com.br)
+[<img src="imgs/streamlit_app_features.gif"/>](https://app.dadosfera.ai/pt-BR/catalog/data-assets/c7947ed2-946a-45d7-a711-389cfb7872b4)
 
 ___
 ### Item 6 - Sobre Modelagem de Dados
